@@ -11,7 +11,7 @@ export default function EmployeeCard({employee}){
             <img src={`images/${employee.image}`} alt={employee.title} onError={handleError}/>
             <div className="movie-card-info">
                 <h3 className="movie-card-title">
-                    {employee.title}
+                 <Link to={`/details/${employee.id}`}>{employee.title}</Link>   
                 </h3>
                 <p className="movie-card-genre">{employee.genre}</p>
                 <p className="movie-card-rating">{employee.grade}</p>

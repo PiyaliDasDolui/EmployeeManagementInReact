@@ -1,10 +1,13 @@
 import logo from './logo.svg';
-import './App.css';
+// import './App.css';
+import './styles.css';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import {BrowserRouter as Router, Routes, Route, Link} from "react-router-dom";
 import { useEffect, useState } from 'react';
 import EmployeeGrid from "./components/EmployeeGrid";
+import { EmployeeProvider } from './EmployeeContext';
+import EmployeeDetails from './EmployeeDetails';
 
 
 
@@ -23,11 +26,14 @@ function App() {
     <div className="App">
       <div className='container'>
         <Header></Header>
+        <EmployeeProvider>
         <Router>
           <Routes>
             <Route path="/" element={<EmployeeGrid employees={employees}/>}></Route>
+            <Route path="/details/:empId" element={<EmployeeDetails></EmployeeDetails>}></Route>
           </Routes>
         </Router>
+        </EmployeeProvider>
         <Footer></Footer>
       </div>
     </div>
