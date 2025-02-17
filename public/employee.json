@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "title": "J. K. Rowling",
+      "image": "1.jpg",
+      "gender": "Female",
+      "grade": "M"
+    },
+    {
+      "id": 2,
+      "title": "Harry Potter",
+      "image": "2.jpg",
+      "gender": "Male",
+      "grade": "SA"
+    },
+    {
+      "id": 3,
+      "title": "Harmione Granger",
+      "image": "3.jpg",
+      "gender": "Female",
+      "grade": "PA"
+    },
+    {
+      "id": 4,
+      "title": "Ron Weasley",
+      "image": "4.jpg",
+      "gender": "Male",
+      "grade": "SA"
+    },
+    {
+      "id": 5,
+      "title": "Albus Dumbledore",
+      "image": "5.jpg",
+      "gender": "Male",
+      "grade": "PA"
+    },
+    {
+      "id": 6,
+      "title": "Minerva McGonagall",
+      "image": "6.jpg",
+      "gender": "Female",
+      "grade": "PA"
+    },
+    {
+      "id": 7,
+      "title": "Severus Snape",
+      "image": "7.jpg",
+      "gender": "Male",
+      "grade": "SA"
+    },
+    {
+      "id": 8,
+      "title": "Rubeus Hagrid",
+      "image": "8.jpg",
+      "gender": "Male",
+      "grade": "SA"
+    },
+    {
+      "id": 9,
+      "title": "Filius Flitwick",
+      "image": "9.jpg",
+      "gender": "Male",
+      "grade": "SA"
+    },
+    {
+      "id": 10,
+      "title": "Pomona Sprout",
+      "image": "10.jpg",
+      "gender": "Female",
+      "grade": "SA"
+    },
+    {
+      "id": 11,
+      "title": "Sybill Trelawney",
+      "image": "11.jpg",
+      "gender": "Female",
+      "grade": "PA"
+    },
+    {
+      "id": 12,
+      "title": "Glideroy Lockhart",
+      "image": "12.jpg",
+      "gender": "Male",
+      "grade": "M"
+    },
+    {
+      "id": 13,
+      "title": "Arthur Weasley",
+      "image": "13.jpg",
+      "gender": "Male",
+      "grade": "M"
+    },
+    {
+      "id": 14,
+      "title": "Molly Weasley",
+      "image": "14.jpg",
+      "gender": "Female",
+      "grade": "M"
+    },
+    {
+      "id": 15,
+      "title": "Percy Weasley",
+      "image": "15.jpg",
+      "gender": "Male",
+      "grade": "SA"
+    },
+    {
+      "id": 16,
+      "title": "Charlie Weasley",
+      "image": "16.jpg",
+      "gender": "Male",
+      "grade": "PA"
+    },
+    {
+      "id": 17,
+      "title": "Bill Weasley",
+      "image": "17.jpg",
+      "gender": "Male",
+      "grade": "SA"
+    },
+    {
+      "id": 18,
+      "title": "Draco Malfoy",
+      "image": "18.jpg",
+      "gender": "Male",
+      "grade": "M"
+    },
+    {
+      "id": 19,
+      "title": "Lucious Malfoy",
+      "image": "19.jpg",
+      "gender": "Male",
+      "grade": "SA"
+    },
+    {
+      "id": 20,
+      "title": "Narcissa Malfoy",
+      "image": "20.jpg",
+      "gender": "Female",
+      "grade": "PA"
+    }
+  ]
+   
