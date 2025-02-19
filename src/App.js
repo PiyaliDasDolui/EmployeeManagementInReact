@@ -8,6 +8,7 @@ import { useEffect, useState } from 'react';
 import EmployeeGrid from "./components/EmployeeGrid";
 import { EmployeeProvider } from './EmployeeContext';
 import EmployeeDetails from './EmployeeDetails';
+import FileUploader from './components/FileUploader';
 
 
 
@@ -26,6 +27,8 @@ function App() {
     <div className="App">
       <div className='container'>
         <Header></Header>
+        <FileUploader></FileUploader>
+        
         <EmployeeProvider>
         <Router>
           <Routes>
